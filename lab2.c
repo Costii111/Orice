@@ -7,6 +7,8 @@ int function(int x){
 	return x;
 }
 
+// asfnasjfgnas
+
 int main(){
 	int a=30, i=0;
 	
